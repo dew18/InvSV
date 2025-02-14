@@ -8,6 +8,9 @@
     filter: blur(8px); /* Ajusta el nivel de desenfoque */
     z-index: -1; /* Para que quede detrás del contenido */
 }
+.texto {
+    color: white !important; /* Forzamos el color blanco */
+}
 
 .contenido {
     position: relative;
